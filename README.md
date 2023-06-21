@@ -22,8 +22,8 @@ Feel free to visit each repository to get more information about each project.
 
 You can reach me through various channels:
 
-- Email: [Your Email Address](mailto:bborndoerfer@gmail.com)
-- Twitter: [@YourTwitterUsername](https://twitter.com/woodleginho)
+- Email: [bborndoerfer@gmail.com](mailto:bborndoerfer@gmail.com)
+- Twitter: [@woodleginho](https://twitter.com/woodleginho)
 
 Feel free to drop me a message or connect with me on social media. I look forward to hearing from you!
 
