@@ -18,21 +18,12 @@ Here are some of my most interesting projects:
 
 Feel free to visit each repository to get more information about each project.
 
-## My Contributions
-
-I enjoy participating in open-source projects and contributing to the community. Here are some of my contributions:
-
-- Contribution 1: [Contribution Title](link to contribution): A brief description of my contribution and the projects involved.
-- Contribution 2: [Contribution Title](link to contribution): A brief description of my contribution and the projects involved.
-
-Visit the individual contributions to get more information about my contributions and discussions.
-
 ## Contact Me
 
 You can reach me through various channels:
 
-- Email: [Your Email Address](mailto:your-email@example.com)
-- Twitter: [@YourTwitterUsername](https://twitter.com/yourTwitterUsername)
+- Email: [Your Email Address](mailto:bborndoerfer@gmail.com)
+- Twitter: [@YourTwitterUsername](https://twitter.com/woodleginho)
 
 Feel free to drop me a message or connect with me on social media. I look forward to hearing from you!
 
